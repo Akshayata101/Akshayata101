@@ -1,15 +1,9 @@
 # Hi there, I'm Akshayata! 👋
 
-> **"Code with passion, create with purpose."**
-
-🚀 **Aspiring Backend Developer** | 📊 **Data Analytics Enthusiast** | 💡 **Problem Solver**
-
-Welcome to my GitHub profile! I'm passionate about creating impactful backend systems and uncovering insights through data analysis.
-
 ---
 
 ## 🔭 What I'm Currently Working On
-- Enhancing my backend development skills (Java Spring Boot & Python FastAPI)
+- Enhancing my backend development skills (Java Spring Boot )
 - Building data-driven projects with real-world applications
 - Exploring cloud services and deployment strategies
 - Deep-diving into backend design patterns and system architecture
@@ -35,10 +29,10 @@ Welcome to my GitHub profile! I'm passionate about creating impactful backend sy
 ---
 
 ## 🌱 Currently Learning
-- Backend frameworks (Java Spring Boot, Python FastAPI)
+- Backend frameworks (Java Spring Boot)
 - APIs, authentication, and microservices
 - Data preprocessing, visualization, and insights extraction
-- Cloud platforms (AWS, GCP basics)
+- Cloud platforms (AWS)
 - SQL and NoSQL databases
 
 ---
